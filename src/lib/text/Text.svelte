@@ -1,3 +1,10 @@
+<!--
+  このコンポーネントのタイポグラフィ仕様は、デジタル庁デザインシステムを参考にしています。
+  出典: デジタル庁デザインシステム https://design.digital.go.jp/foundations/typography/
+  
+  フォントファミリー、サイズ、行間、字間などの仕様を参考に、独自に実装したものです。
+  オリジナルの仕様から改変しています。
+-->
 <script lang="ts">
 	import {
 		fontSizeFromTextStyle,

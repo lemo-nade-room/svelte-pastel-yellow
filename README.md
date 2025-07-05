@@ -1,8 +1,16 @@
-# Svelte library
+# svelte-pastel-yellow
 
-Everything you need to build a Svelte library, powered by [`sv`](https://npmjs.com/package/sv).
+Svelte 5 + SvelteKit を使用したコンポーネントライブラリです。
 
-Read more about creating a library [in the docs](https://svelte.dev/docs/kit/packaging).
+## 謝辞
+
+このライブラリの一部のコンポーネントは、以下のリソースを参考にしています：
+
+- **Textコンポーネント**: [デジタル庁デザインシステム](https://design.digital.go.jp/foundations/typography/) のタイポグラフィ仕様を参考に実装しました。フォントファミリー、サイズ、行間、字間などの仕様を独自に実装・改変しています。
+
+## ライセンス
+
+このプロジェクトは MIT License の下で公開されています。詳細は [LICENSE](./LICENSE) ファイルを参照してください。
 
 ## Creating a project
 
